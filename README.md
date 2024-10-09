@@ -7,6 +7,9 @@
 [![](https://img.youtube.com/vi/ffB0r0ee_Zo/0.jpg)](https://www.youtube.com/watch?v=ffB0r0ee_Zo)
 
 ## Architecture and Technology 
+**Architecture and Structure**
+
+![](Image/Architecture.png)
 
 
 ## Directory Structure 
