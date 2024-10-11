@@ -50,8 +50,7 @@ The project was developed using Django (Python), with a SQLite database and Boot
 ├───moviesstore
 ```
 
-## 
-
+<!-- 
 ## Deployment
 
 ## Security 
@@ -60,7 +59,7 @@ The project was developed using Django (Python), with a SQLite database and Boot
 
 ## Performance and Optimization
 
-## Challenges and Lessons Learned
+## Challenges and Lessons Learned -->
 
 ## References 
 - Django 5 for the Impatient 
