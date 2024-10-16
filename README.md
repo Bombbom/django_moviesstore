@@ -60,6 +60,6 @@ The project was developed using Django (Python), with a SQLite database and Boot
 ## Performance and Optimization
 
 ## Challenges and Lessons Learned -->
-
+![The checkout payment flow](The_checkout_payment_flow.png)
 ## References 
 - Django 5 for the Impatient 

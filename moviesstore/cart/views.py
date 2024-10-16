@@ -36,7 +36,17 @@ def clear(request):
     request.session['cart'] = {}
     return redirect('cart.index')
 
- 
+# @login_required
+# def confirm_order(request):
+#     cart = request.session.get('cart', {})
+#     movie_ids = list(cart.keys())
+#     if (movie_ids==[]):
+#         return redirect('cart.index')
+#     movies_in_cart = Movie.objects.filter(id__in=movie_ids)
+#     cart_total = calculate_cart_total(cart, movies_in_cart)
+    
+#     pass
+
 @login_required
 def purchase(request):
     cart = request.session.get('cart', {})
